@@ -1,6 +1,6 @@
- ---
+---
 layout: single
-title:  "[멋사] 2일차 Python Basic"
+title:  "[멋사] 2일차 Python 베이직"
 ---
 
 [멋쟁이사자처럼 8기 2일차 교육] list, dictionary, for, while
