@@ -1,9 +1,9 @@
 ---
 layout: single
-title:  "[멋사] 2일차 Python 베이직"
+title:  "[멋사] Python 베이직"
 ---
 
-[멋쟁이사자처럼 8기 2일차 교육] list, dictionary, for, while
+[멋쟁이사자처럼 8기 python 교육] list, dictionary, for, while
 
 1일차 교육에 이어 핵심 문법 및 개념에 대해 학습하고, 반복문의 개념을 익혔다.
 
