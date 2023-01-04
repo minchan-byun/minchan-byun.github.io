@@ -1,9 +1,9 @@
 ---
 layout: single
-title:  "[멋사] 3일차 Python 미니 프로젝트"
+title:  "[멋사] Python 미니 프로젝트"
 ---
 
-[멋쟁이사자처럼 8기 3일차 교육] Web Crawling, API, 번역, 메일 보내기
+[멋쟁이사자처럼 8기 python 교육] Web Crawling, API, 번역, 메일 보내기
 
 오늘은 python 모듈을 통해 활용할 수 있는 다양한 기능들을 미니프로젝트 형식으로 진행했다. 
 
