@@ -479,7 +479,7 @@ smtp = smtplib.SMTP_SSL(SMTP_SERVER,SMTP_PORT)
 print('-------------서버 연결 완료---------------')
 
 # smtp 메일 서버에 로그인 하기
-smtp.login('minchan-work@likelion.org','alscks135!')
+smtp.login('minchan-work@likelion.org','*******')
 print('-------------메일 로그인 성공--------------')
 
 # 메세지 보내기 
@@ -553,7 +553,7 @@ smtp = smtplib.SMTP_SSL(SMTP_SERVER,SMTP_PORT)
 print('-------------서버 연결 완료---------------')
 
 # smtp 메일 서버에 로그인 하기
-smtp.login('minchan-work@likelion.org','alscks135!')
+smtp.login('minchan-work@likelion.org','*******')
 print('-------------메일 로그인 성공--------------')
 
 
