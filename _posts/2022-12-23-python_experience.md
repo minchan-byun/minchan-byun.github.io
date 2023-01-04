@@ -1,9 +1,9 @@
 ---
 layout: single
-title:  "[멋사] 1일차 Python 맛보기"
+title:  "[멋사] Python 맛보기"
 ---
 
-[멋쟁이사자처럼 8기 1일차 교육]
+[멋쟁이사자처럼 8기 python 교육] 반복문, dictionary, list etc.
 
 
 python의 문법 중 가장 핵심적인 부분들만을 추려 핵심 문법을 다룬 내용이다. 
